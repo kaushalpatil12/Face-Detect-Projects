@@ -34,4 +34,4 @@ A Glimpse of Output
 ![Header image](./ss.JPG)  
 
 # Query?
-Contact me - mayankbajaj114@gmail.com
+Contact me - kupatil122@gmail.com
